@@ -1,0 +1,5 @@
+first = input("What's your first name?\n")
+second = input("What's your second name?\n")
+if (first == "Sara"
+        and second == "Edviges"):
+    print("I like your name")
